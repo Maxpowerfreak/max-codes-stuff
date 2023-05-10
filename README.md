@@ -1,2 +1,2 @@
-# max-codes-stuff
-Repository for my static site, maxcodesstuff.com
+# max-codes-things
+Repository for my static site, https://maxcodesthings.com
