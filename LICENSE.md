@@ -4,9 +4,9 @@ All the files inside the `content/posts` directory are licensed under
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). The attribution requirement is only met when:
 
 1. The canonical link is directed towards the original article, e.g.
-   `<link rel="canonical" href="https://www.maxcodesthings.com/posts/hello-world/" />`
+   `<link rel="canonical" href="https://maxcodesthings.com/posts/hello-world/" />`
 2. The following message is displayed above and below the article:
-   `This article has been originally published on <a href="https://www.maxcodesthings.com/">Maxime Delcourt's website</a>.`
+   `This article has been originally published on <a href="https://maxcodesthings.com/">Maxime Delcourt's website</a>.`
 
 # Other files
 
